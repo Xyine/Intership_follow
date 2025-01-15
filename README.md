@@ -27,12 +27,17 @@ Intership_follow/
 ├── requirements.txt    # List of dependencies
 └── README.md           # Project documentation (this file)
 ```
-Requirements
+
+---
+
+## Requirements
 
     Python 3.8 or higher
     Dependencies listed in requirements.txt
 
-Installation
+---
+
+## Installation
 
 Follow these steps to set up and run the project:
 
@@ -50,7 +55,9 @@ Follow these steps to set up and run the project:
 
     pip install -r requirements.txt
 
-Usage
+---
+
+## Usage
 
   1. Run the application:
 
@@ -61,7 +68,9 @@ Usage
        - View statistics
        - Export logs
 
-Contributing
+---
+
+## Contributing
 
 Contributions are welcome! To contribute:
 

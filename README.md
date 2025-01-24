@@ -20,11 +20,10 @@
 ```plaintext
 Intership_follow/
 ├── README.md
-├── venv/                    # Virtual environment
 ├── src/                     # Source code
 │   ├── __init__.py 
 │   ├── backend/             # Backend related code
-│   │   ├── __init__.py      # Initialize the backend module
+│   │   ├── __init__.py      
 │   │   ├── main.py          # FastAPI application (API routes)
 │   │   ├── models.py        # Data models (e.g., Task)
 │   │   ├── database.py      # Functions to interact with database (e.g., add_task, get_tasks)
@@ -32,9 +31,8 @@ Intership_follow/
 │   │   ├── __init__.py
 │   │   ├── main.py          # PyQt/PySide window for user interface
 │   │   ├── pages.py         # Different pages for navigation
-├── .gitignore               # Files and folders to ignore in git
-├── requirements.txt         # List of dependencies for the project (including PyQt, FastAPI, etc.)
-└── README.md                # Project documentation (you can update it with this structure)
+├── requirements.txt         # List of dependencies for the project
+└── README.md                # Project documentation 
 
 ```
 

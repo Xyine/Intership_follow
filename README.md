@@ -30,7 +30,7 @@ Intership_follow/
 │   │   ├── database.py      # Functions to interact with database (e.g., add_task, get_tasks)
 │   ├── frontend/            # Frontend related code (PyQt/PySide)
 │   │   ├── __init__.py
-│   │   ├── main.py   # PyQt/PySide window for user interface
+│   │   ├── main.py          # PyQt/PySide window for user interface
 │   │   ├── pages.py         # Different pages for navigation
 ├── .gitignore               # Files and folders to ignore in git
 ├── requirements.txt         # List of dependencies for the project (including PyQt, FastAPI, etc.)

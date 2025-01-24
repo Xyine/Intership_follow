@@ -31,6 +31,7 @@ Intership_follow/
 │   │   ├── __init__.py
 │   │   ├── main.py          # PyQt/PySide window for user interface
 │   │   ├── pages.py         # Different pages for navigation
+├── .gitignore               # Files and folders to ignore in git
 ├── requirements.txt         # List of dependencies for the project
 └── README.md                # Project documentation 
 
